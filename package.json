@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
+  "name": "mythicraftlauncher",
   "version": "2.0.4",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "productName": "Mythicraft Launcher",
+  "description": "Custom Minecraft Launcher For Mythicraft Modded Minecraft Server",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/) + TheTiger72",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/TheTiger72/Mythicraft-Launcher",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/TheTiger72/Mythicraft-Launcher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -44,6 +44,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/TheTiger72/Mythicraft-Launcher.git"
   }
 }
